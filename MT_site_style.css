@@ -14,7 +14,15 @@ h1 {
 .paragraph-2 {
     font-size: 25pt;
     border: 10px solid black;
-    border-radius: 5px;
+    border-radius: 15px;
     margin: 100px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.paragraph-3 {
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    font-style: italic;
+    text-shadow:green 10px 5px 10px;
 }
