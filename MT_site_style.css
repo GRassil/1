@@ -1,0 +1,20 @@
+h1 {
+    background: blue;
+    text-decoration: dashed;
+    color: red
+}
+
+
+.paragraph-1 {
+    background: rgb(206, 80, 80);
+    font-size: 30pt;
+    color: rgb(80, 166, 206);
+}
+
+.paragraph-2 {
+    font-size: 25pt;
+    border: 10px solid black;
+    border-radius: 5px;
+    margin: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
